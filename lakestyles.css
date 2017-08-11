@@ -1,0 +1,39 @@
+body
+{
+	background-color:LightBlue;
+}
+h1
+{
+	background-color:white;
+	text-align:center;
+}
+h2
+{
+	background-color:white;
+}
+h3
+{
+	background-color:white;
+	margin-left: 170px;
+	margin-right: 150px;
+	font-size:23px;
+}
+#p1
+{
+    margin-left: 170px;
+	margin-right: 150px;
+}	
+article {
+	float:right;
+    margin-left: 150px;
+	margin-right: 150px;
+    padding: 1em;
+    overflow: hidden;
+}
+#l1
+{
+    margin-left: 170px;
+	margin-right: 150px;
+	text-align:center;
+	font-size:23px;
+}

@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<body>
+<head>
+    <link rel="stylesheet" href="pykara.css">
+	<title>Ooty.xyz</title>
+</head>
+<h1>#Pykara Lake && Pykara Waterfalls#</h1>
+
+<img src="pl.gif"alt="ooty lake" style="width:360px;height:360px;float:right;">
+<img src="pw.gif"alt="ooty lake" style="width:360px;height:360px;float:left;">
+<img src="pi.jpg"alt="ooty lake" style="margin-left: 20px;width:573px;height:360px;float:center;">
+
+<article>
+<h1>A brief note on Pykara:</h1>
+<p>Pykara river is the largest river and is located about 21 kms from the city on the Ooty-Mysore road in the Niligiri district. The area around the lake is surrounded by sholas (local name for forest) that adds to its natural beauty. The river falls down from two different heights towards the end, one from 55 metres and the other from 61 metres. These two falls are known as Pykara falls and are located at a distance of 1.5 kms away from the lake.
+The place is a popular picnic spot among locals as well as tourists. Many Kollywood (Tamil Cinema) filmmakers have shot scenes/songs of their movies around this picturesque lake. There is a boat house, rest house and a restaurant that is run by the Tamil Nadu Tourism Development Corporation. A motorboat or a speedboat can be hired from the boat house to enjoy a fun-filled ride.
+</p>
+</article>
+<div id="map" align="center" style=" margin-left: 170px;width:1000px;height:410px;background:yellow"></div>
+<script>
+function myMap() 
+{
+var mapOptions = {
+    center: new google.maps.LatLng(11.4721, 76.6048),
+    zoom: 17,
+    mapTypeId: google.maps.MapTypeId.HYBRID
+}
+var map = new google.maps.Map(document.getElementById("map"), mapOptions);
+}
+</script>
+
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC3UOXRh_DAZyvvceNWZBwLJWJiKrPX8IM&callback=myMap">
+</script>
+<h3>How to reach Pykara:</h3>
+<p id="p1">At 33 km from Ooty, Pykara Lake and Falls lie by the Coimbatore Ooty Gundelpet Highway. You have to drive and take left from the Pykara Police Station to reach here in around 40 minutes.</p>
+<a id="l1" href="https://en.wikipedia.org/wiki/Pykara">To know more about pykara falls and lake click here</a> 
+</body>
+</html>

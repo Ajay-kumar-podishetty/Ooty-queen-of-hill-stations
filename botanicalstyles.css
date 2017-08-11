@@ -1,0 +1,59 @@
+body
+{
+	background-image:url("bbg1.jpg");
+}
+h1
+{
+	
+	text-align:center;
+	Color:red;
+}
+h2
+{
+	text-align:center;
+	Color:red;
+}
+h3
+{
+	text-align:center;
+	Color:red;
+	
+	margin-left: 170px;
+	margin-right: 150px;
+	font-size:23px;
+}
+h4
+{
+	text-align:center;
+	Color:red;
+	
+	margin-left: 170px;
+	margin-right: 150px;
+	font-size:23px;
+}
+#p1
+{
+    margin-left: 170px;
+	margin-right: 150px;
+	font-size:18px;
+}
+#p2
+{	
+    margin-left: 170px;
+	margin-right: 150px;
+	font-size:18px;
+}
+article {
+	float:right;
+    margin-left: 150px;
+	margin-right: 150px;
+    padding: 1em;
+    overflow: hidden;
+}
+#l1
+{
+    margin-left: 170px;
+	margin-right: 150px;
+	text-align:center;
+	font-size:23px;
+}

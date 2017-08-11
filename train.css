@@ -1,0 +1,93 @@
+body
+{
+	background-image:url("tb4.jpg");
+}
+h1
+{
+	
+	text-align:center;
+	Color:red;
+	background-color:white;
+	margin-left: 170px;
+	margin-right: 150px;
+	font-size:23px;
+}
+h2
+{
+	text-align:center;
+	Color:red;
+}
+h3
+{
+	text-align:center;
+	Color:red;
+	background-color:white;
+	margin-left: 170px;
+	margin-right: 150px;
+	font-size:23px;
+}
+
+h4
+{
+	text-align:center;
+	Color:red;
+	background-color:white;
+	margin-left: 170px;
+	margin-right: 150px;
+	font-size:23px;
+}
+h5
+{
+	text-align:center;
+	Color:red;
+	background-color:white;
+	margin-left: 170px;
+	margin-right: 150px;
+	font-size:23px;
+}
+h6
+{
+	text-align:center;
+	Color:red;
+	background-color:white;
+	margin-left: 170px;
+	margin-right: 150px;
+	font-size:23px;
+}
+#p0
+{
+  margin-left: 170px;
+	margin-right: 150px;
+	font-size:18px;
+	background-color:lightyellow;
+}
+#p1
+{
+    margin-left: 170px;
+	margin-right: 150px;
+	font-size:18px;
+	background-color:lightyellow;
+}
+#p2
+{	
+    margin-left: 170px;
+	margin-right: 150px;
+	font-size:18px;
+	background-color:lightyellow;
+}
+#p3
+{	
+    margin-left: 170px;
+	margin-right: 150px;
+	font-size:18px;
+	background-color:lightyellow;
+}
+#l1
+{
+	color:red;
+    margin-left: 170px;
+	margin-right: 150px;
+	text-align:center;
+	font-size:23px;
+	background-color:lightyellow;
+}
